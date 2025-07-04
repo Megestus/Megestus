@@ -10,7 +10,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megestus)](https://github.com/Megestus/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megestus)](https://github.com/Megestus/github-readme-stats) -->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Megestus)](https://github.com/Megestus/github-readme-activity-graph)
 
 <!-- ![头像](https://megestus-1309556466.cos.ap-shanghai.myqcloud.com/Bg/tobi-7.jpg) -->
 
