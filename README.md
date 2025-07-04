@@ -1,5 +1,7 @@
 <div id="title" align=center>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Don't+let+the+sorrow+of+the+times+become+your+sorrow.)](https://git.io/typing-svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megestus&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 
@@ -13,14 +15,17 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megestus)](https://github.com/Megestus/github-readme-stats) -->
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Megestus)](https://github.com/Megestus/github-readme-activity-graph)
 
 <!-- ![头像](https://megestus-1309556466.cos.ap-shanghai.myqcloud.com/Bg/tobi-7.jpg) -->
 
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Megestus&theme=dracula)](https://github.com/Megestus/github-readme-activity-graph)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/Megestus/count.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Don't+let+the+sorrow+of+the+times+become+your+sorrow.)](https://git.io/typing-svg)
 
 
 </div>
