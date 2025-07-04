@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Don't+let+the+sorrow+of+the+times+become+your+sorrow.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Don't+let+the+sorrow+of+the+times+become+your+sorrow.;%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%97%B6%E4%BB%A3%E7%9A%84%E6%82%B2%E5%93%80%EF%BC%8C%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%82%B2%E5%93%80%E3%80%82)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megestus&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
